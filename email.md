@@ -6,7 +6,7 @@
 Draft a polite and professional reply to this email. 
 - Acknowledge receipt and show appreciation. 
 - Address the sender’s key concerns clearly. 
-- Propose next steps, keeping UBS tone (formal, concise, client-first). 
+- Propose next steps, keeping  tone (formal, concise, client-first). 
 - Ensure regulatory/compliance-sensitive language where relevant.
 ```
 
