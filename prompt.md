@@ -1,4 +1,4 @@
-Copilot Prompt created for MOM5
+Copilot Prompt created for MOM
 --------------------------------------------
 Prepare detailed meeting minutes that include the following: a list of all attendees, a summary of discussion points with details on topics, debates, and alternative perspectives, and a record of decisions made, specifying who made each decision and the reasoning behind it. Summarize any data or insights shared that influenced the meeting. Note any agreed follow-up meetings or checkpoints, and provide a complete list of actions in a table with columns for Action, Owner, and Expected Date. Ensure all assigned tasks, responsible individuals, and deadlines are specified, including seemingly minor actions. If documents or attachments are referenced, include them if available. Add any relevant chats that contributed to the discussion, but exclude chats about participents joining or leaving. List all questions asked during the meeting.
 for your reference
@@ -18,7 +18,7 @@ Risks or open issues
 Keep the tone professional and concise.
 
 ---------------------------------------------
-Improved Copilot Prompt (MOM5)
+Improved Copilot Prompt (MOM)
 --------------------------------------------
 
 Prepare comprehensive meeting minutes that include:
@@ -42,7 +42,7 @@ Prepare comprehensive meeting minutes that include:
 Ensure the output is well-structured, detailed, and easy to review.
 
 ---------------------------------------------
-Executive Summary Copilot Prompt (MOM5)
+Executive Summary Copilot Prompt (MOM)
 --------------------------------------------
 
 
