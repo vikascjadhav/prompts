@@ -40,3 +40,22 @@ Prepare comprehensive meeting minutes that include:
 7. Chats/Questions – Add relevant chat contributions (excluding join/leave messages). List all questions raised during the meeting.
 
 Ensure the output is well-structured, detailed, and easy to review.
+
+---------------------------------------------
+Executive Summary Copilot Prompt (MOM5)
+--------------------------------------------
+
+
+Prepare a concise executive summary of meeting minutes that includes:
+
+1. Attendees – List of participants.
+
+2. Key Topics & Outcomes – Summarize main points of discussion, decisions made, and reasoning behind them.
+
+3. Highlights & Insights – Capture any critical data, metrics, or perspectives shared.
+
+4. Next Steps – List agreed follow-ups, checkpoints, and timelines.
+
+5. Action Items – Provide a table with Action, Owner, and Expected Date.
+
+Keep the summary high-level, business-focused, and easy to digest for senior management.
