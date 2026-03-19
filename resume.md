@@ -1,0 +1,1 @@
+Can you audit this entire resume and point out areas where I’m being too vague, too wordy, or not showing enough impact? I want your feedback on tone, structure, and how I can better emphasize leadership, results, or innovation. and provide ATS score
