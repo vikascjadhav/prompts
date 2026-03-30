@@ -30,6 +30,8 @@ meeting context, skip those fields in the output — do not duplicate them.
 
 OUTPUT FORMAT:
 
+Use tables when needed for output
+
 ## [Meeting Title]
 Date: | Duration: | Platform:
 
